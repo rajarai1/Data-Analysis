@@ -1,0 +1,3 @@
+Problem Statement:
+In the context of optimizing business performance for a retail superstore, the goal is to leverage data analysis techniques to extract actionable insights from the existing sales data.identifying key trends, patterns, and anomalies. This includes evaluating sales performance across different time periods, product categories, and store locations are major challeneges.The objective is to improve inventory management, optimize staffing levels, and enhance overall operational efficiency.Generating data-driven insights that support strategic decision-making, helping the superstore to enhance marketing strategies, pricing decisions, and product offerings.
+
